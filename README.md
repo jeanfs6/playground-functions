@@ -1,13 +1,52 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h1 align="center">Projeto App de Receitas</h1>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Neste projeto implementei e desenvolvi funções seguindo os requisitos especificados para o correto comportamento de cada uma delas.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+### Habilidades Desenvolvidas Durante o Projeto:
+
+- Escrever códigos em JavaScript que usam variáveis e tipos primitivos;
+- Utilizar conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos/de atribuição no seu código;
+- Criar códigos que usam estruturas condicionais, como o if/else ;
+- Manipular arrays (listas);
+- Utilizar o comando for ;
+- Quebrar grandes problemas em pequenos;
+- Utilizar a lógica de programação na resolução de problemas;
+- Manipular objetos;
+- Utilizar o comando for/in ;
+- Utilizar funções para organizar e estruturar o seu código;
+
+
+### Instalação do Projeto Localmente
+
+1 - Abra o terminal e em seguida crie um diretório utilizando o comando ***mkdir***.Ex:
+```javascript
+  mkdir Playground
+```
+2 - Entre no diretório com o comando ***cd***.Ex:
+```javascript
+  cd Playground
+```
+3 - Após entrar no diretório criado, clone o projeto utilizando o comando ***git clone***. Ex:
+```javascript
+  git clone git@github.com:jeanfs6/playground-functions.git
+```
+
+4 - Acesse o diretório do projeto clonado, utilizando o comando ***cd***. Ex:
+```javascript
+  cd playground-functions
+```
+5 - Instale as dependências necessárias utilizando o comando ***mpm install***. Ex:
+```javascript
+  npm install
+  ```
+6 - Finalmente, para rodar o projeto,  utiliize o comando ***npm start***. Ex:
+```javascript
+  npm start
+  ```
+
+
+
+
+
+

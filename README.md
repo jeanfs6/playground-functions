@@ -1,4 +1,4 @@
-<h1 align="center">Projeto App de Receitas</h1>
+<h1 align="center">Projeto Playground Functions</h1>
 
 Neste projeto implementei e desenvolvi funções seguindo os requisitos especificados para o correto comportamento de cada uma delas.
 
